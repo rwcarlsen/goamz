@@ -1,9 +1,9 @@
 package iam_test
 
 import (
-	"launchpad.net/goamz/aws"
-	"launchpad.net/goamz/iam"
-	"launchpad.net/goamz/iam/iamtest"
+	"github.com/rwcarlsen/goamz/aws"
+	"github.com/rwcarlsen/goamz/iam"
+	"github.com/rwcarlsen/goamz/iam/iamtest"
 	. "launchpad.net/gocheck"
 )
 

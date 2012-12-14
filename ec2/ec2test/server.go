@@ -9,7 +9,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io"
-	"launchpad.net/goamz/ec2"
+	"github.com/rwcarlsen/goamz/ec2"
 	"net"
 	"net/http"
 	"net/url"
